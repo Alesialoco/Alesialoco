@@ -13,8 +13,8 @@
     <a href="https://vk.ru/alesyav">
       <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
     </a>
-    <a href="alesyavas8@yandex.ru">
-      <img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=yandex&logoColor=white" alt="Email Badge"/>
+    <a href="mailto:alesyavas8@yandex.ru">
+      <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail Badge"/>
     </a>
   </p>
 </div>
